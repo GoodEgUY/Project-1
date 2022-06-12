@@ -166,5 +166,14 @@ justify-content: space-between;
     justify-content: center;
     display: flex;
 }
+<<<<<<< HEAD
 
 /*------------ Sushi info -----------*/
+=======
+.map__frame {
+    display: flex;
+    justify-content: center;
+   width: 1100px;
+   margin: 0 auto;
+}
+>>>>>>> 1b9344cd60f3c5cee34aef39a8ac9470db7a85a4
