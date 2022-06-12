@@ -166,3 +166,9 @@ justify-content: space-between;
     justify-content: center;
     display: flex;
 }
+.map__frame {
+    display: flex;
+    justify-content: center;
+   width: 1100px;
+   margin: 0 auto;
+}
